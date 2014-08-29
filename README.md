@@ -1,7 +1,7 @@
 Android-Midterm
 ===============
 
-Basic app to display Rotten Tomatoes-based movie reviews:
+Basic app to display current movie info from Rotten Tomatoes:
   *It's just an old midterm project from Mobile Applications class as an entry-level resume code example.*
   The target was SDK of 17 with minimum of 11 to display on 3.2" QVGA(ADP2) (320x480: mdpi).
   
