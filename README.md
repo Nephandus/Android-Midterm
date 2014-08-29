@@ -9,4 +9,4 @@ Basic app to display current movie info from Rotten Tomatoes:
   Most of my XML is under /Midterm/res/layout/ with some modifications to /Midterm/AndroidManifest.xml
   
   "Favorites" related functions don't currently work without the original teacher's server.
-    This'd require setting up my own public database server so will probably just remain commented out.
+    This'd require setting up my own public database server, so they're currently just commented out.
